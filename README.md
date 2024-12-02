@@ -1,3 +1,6 @@
+
+![Home](https://github.com/user-attachments/assets/5b262d9d-7b88-4bfb-be4c-7636dfba3049)
+
 # RK Furniture Website
 
 The RK Furniture web application is a responsive and interactive platform developed to showcase furniture products and manage customer inquiries. It was built using modern web technologies and incorporates dynamic features to enhance user experience.
